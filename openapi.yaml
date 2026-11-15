@@ -65546,6 +65546,7 @@ components:
         - medium
         - high
         - xhigh
+        - none
       default: low
     RealtimeResponse:
       type: object
